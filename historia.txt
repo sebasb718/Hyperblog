@@ -1,6 +1,7 @@
 Esta es una historia 
 
-contenido
+contenido con adiciones
+mas contenido
 
 final 
 
